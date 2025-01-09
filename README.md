@@ -9,3 +9,6 @@ This is a demo of how to use a work with GitHub & Git
 
 #Reseources
 data not available (sensitive)
+
+#PyCharm Title
+This is a pyCharm example
